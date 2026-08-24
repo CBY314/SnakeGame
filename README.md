@@ -1,2 +1,1 @@
-# -
-贪吃蛇小游戏
+# 贪吃蛇小游戏（Gluttonous Snake）
